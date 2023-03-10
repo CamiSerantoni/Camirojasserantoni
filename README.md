@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Camila Rojas Serantoni
+- 👋 Hi, I’m Camila Serantoni Rojas
 - 👀 I’m interested in keep learning new technologies
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on diferent tipe of proyects using front end libraries/frameworks
