@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on diferent tipe of proyects using front end libraries/frameworks
 - 📫 How to reach me ...
 
-Linkedin: https://www.linkedin.com/in/camilarojasserantoni/
+Linkedin: https://www.linkedin.com/in/camilaserantonirojas/
 
 <!---
 Camirojasserantoni/Camirojasserantoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
