@@ -16,7 +16,7 @@ Web Development: REST APIs, Webpack, NPM, Git
  I'm seeking opportunities to collaborate on challenging projects that allow me to continue growing professionally and adding value. 💞️
 
 📫 How to Reach Me
-If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me via LinkedIn  https://www.linkedin.com/in/camilaserantonirojas/
+If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me via LinkedIn  https://www.linkedin.com/in/camilaserantonirojas/ or in my email: camila.serantonir@gmail.com
  
 
 
