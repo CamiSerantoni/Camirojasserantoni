@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<h1 align="center">Hi!, I'm Camila Serantoni, or simply... me Cami ✨</h1>
+<h1 align="center">Hi!, I'm Camila Serantoni, or just Cami ✨</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
