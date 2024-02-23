@@ -46,7 +46,7 @@ If you're interested in collaborating on a project or just want to say hello, fe
 
 
  <h3>🔥My GitHub Profile Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Camirojasserantoni&theme=radical&show_icons=true&locale=en&layout=compact" alt="Camirojasserantoniv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Camirojasserantoni&theme=radical&show_icons=true&locale=en" alt="Camirojasserantoni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiSerantoni&theme=radical&show_icons=true&locale=en&layout=compact" alt="Camirojasserantoniv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiSerantoni&theme=radical&show_icons=true&locale=en" alt="Camirojasserantoni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Camirojasserantoni&theme=radical" alt="ceciliageraldo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiSerantoni&theme=radical" alt="ceciliageraldo" /></p>
